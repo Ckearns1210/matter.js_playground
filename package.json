@@ -1,0 +1,20 @@
+{
+  "name": "matter_playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "express-sessions": "^1.0.5",
+    "jquery": "^2.1.4",
+    "matter-js": "^0.8.0",
+    "morgan": "^1.6.1",
+    "request": "^2.67.0"
+  }
+}
